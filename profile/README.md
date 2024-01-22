@@ -1,5 +1,5 @@
 ## Welcome to Berry Battle!
-Berry Battle is a game simulator that officiates a match between two Raspberry Pi devices running user defined AI algorithms that are trained to defeat an opposing team.
+Berry Battle is a game simulator that officiates a match between two user defined AI algorithms executing on Raspberry Pi devices
 
 The inspiration for Berry Battle comes from the excellent code competition [Battlecode](https://battlecode.org/). 
 
